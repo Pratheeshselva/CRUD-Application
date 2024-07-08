@@ -9,7 +9,7 @@ myForm.addEventListener('submit', async(e)=>{
             email:myForm.email.value,
             mobile:myForm.mobile.value,
             gender:myForm.gender.value,
-            dob:myForm.DOB.value,
+            dob:myForm.dob.value,
             address:{
                 addressLine:myForm.addressLine.value,
                 city:myForm.city.value,
